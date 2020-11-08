@@ -17,7 +17,7 @@ The polling data was provided in a csv file to be reviewed and through this anal
 
 -  The image below shows the breakdown and percentage of votes by candidate.
 
-<img src="https://github.com/andralobo/Module3-Challenge/blob/main/Resources/election_candidate.png?raw=true">
+<img src="https://github.com/andralobo/Module3-Challenge/blob/main/Resources/election_candidates.png?raw=true">
 
 -  After reviewing Diana DeGette had the highest number of votes at 73.8% of the total votes. Charles Casper Stockham came in second at 23% and Raymond Anthony Doane’s was third with only 3.1% of the votes.
 
